@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/config-svc" />
+    <file type="web" url="file://$PROJECT_DIR$/customer-svc" />
     <file type="web" url="file://$PROJECT_DIR$/discovery-svc" />
     <file type="web" url="file://$PROJECT_DIR$/gateway-svc" />
   </component>
