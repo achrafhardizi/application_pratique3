@@ -3,6 +3,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-svc" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config-svc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/discovery-svc" />
         <option name="modules">
           <set>

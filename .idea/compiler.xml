@@ -2,6 +2,9 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-svc" options="-parameters" />
+      <module name="config-svc.main" options="-parameters" />
+      <module name="config-svc.test" options="-parameters" />
       <module name="discovery-svc" options="-parameters" />
       <module name="discovery-svc.main" options="-parameters" />
       <module name="discovery-svc.test" options="-parameters" />
