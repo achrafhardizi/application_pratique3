@@ -4,6 +4,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/billing-svc" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/billing-svc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/config-svc" />
         <option name="modules">
           <set>
@@ -37,6 +45,11 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/inventory-svc" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/inventory-svc" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

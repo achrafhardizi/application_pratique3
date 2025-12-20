@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/billing-svc" />
     <file type="web" url="file://$PROJECT_DIR$/config-svc" />
     <file type="web" url="file://$PROJECT_DIR$/customer-svc" />
     <file type="web" url="file://$PROJECT_DIR$/discovery-svc" />
     <file type="web" url="file://$PROJECT_DIR$/gateway-svc" />
+    <file type="web" url="file://$PROJECT_DIR$/inventory-svc" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
